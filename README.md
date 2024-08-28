@@ -1,0 +1,1 @@
+System Activity Tracker: This project aimed to track an employee's activities throughout their workday. It allows users to start and stop tracking, providing a detailed breakdown of the time and percentage spent on various tasks, along with visual data. This tool helps employees monitor their productivity and enables managers to assess progress efficiently.
